@@ -1,0 +1,18 @@
+{
+  "client": {
+    "Nom": "Pierre",
+    "Statut": "Or"
+  },
+  "panier": {
+    "produits": [
+      {
+        "Nom": "Informatique",
+        "Prix": 300
+      },
+      {
+        "Nom": "Cosmétiques",
+        "Prix": 100
+      }
+    ]
+  }
+}
